@@ -112,6 +112,31 @@ The complete three-page Power BI report is available here:
 
 [View Power BI Analytics Report](reports/BFSI_Credit_Card_Fraud_Analytics.pdf)
 
+## 🗄️ SQL Analysis
+
+This project uses MySQL for credit card transaction analysis, fraud detection, risk segmentation, and reporting.
+
+The SQL script includes database schema creation and analytical queries for fraud patterns, transaction risk levels, hourly trends, and geographic analysis.
+
+**[View Complete SQL Analysis](sql/fraud_analysis.sql)**
+
+
+
+## 🐍 Python Source Code
+
+Explore the complete Python implementation of this project, including:
+
+- Data cleaning and preprocessing
+- Feature engineering
+- Fraud risk scoring
+- Geographic and time-based fraud analysis
+- Fraud alert monitoring and evaluation
+
+**[View Python Source Code](src/)**
+
+**[View Streamlit Dashboard Code](app.py)**
+
+
 ## ⚠️ Dataset & Project Disclaimer
 
 This project uses a synthetic credit card transaction dataset for educational, analytical, and portfolio purposes.

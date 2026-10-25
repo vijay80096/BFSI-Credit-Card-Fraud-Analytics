@@ -1,3 +1,4 @@
+
 # Python virtual environment
 .venv/
 venv/
@@ -29,3 +30,6 @@ data/**/*.xlsx
 
 # Temporary files
 *.log
+
+# Incomplete interactive dashboard
+dashboard/
