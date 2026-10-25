@@ -130,4 +130,5 @@ Risk scores and alert thresholds are exploratory and should not be used for real
 
 **Project Category:** BFSI Analytics | Fraud Detection | Risk Analytics | Business Intelligence
 
-**Developed as a data analytics and fraud intelligence portfolio project.**
+**Developed as a data analytics and fraud intelligence portfolio project.**# BFSI-Credit-Card-Fraud-Analytics
+Interactive Credit Card Fraud Detection &amp; Risk Analytics Dashboard using Python, SQL, Plotly and Power BI.
