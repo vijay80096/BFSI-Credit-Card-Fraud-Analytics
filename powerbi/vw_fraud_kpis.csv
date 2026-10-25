@@ -1,0 +1,2 @@
+total_transactions,fraud_transactions,genuine_transactions,fraud_rate_percent,total_transaction_value,fraudulent_transaction_value
+1296675,7506,1289169,0.5789,91222428.90,3988088.61
